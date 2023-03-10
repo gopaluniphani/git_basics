@@ -1,2 +1,2 @@
 this is a sample text.
-this is only for demonstration.
+this is only for demonstration purpose.
