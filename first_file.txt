@@ -1,1 +1,14 @@
 this is a sample text.
+this is only for demonstration purpose.
+this is added by luky
+
+adding a new line in a third commit, but only in local.
+
+first_branch
+1
+2
+3 4
+
+this commit is made by sree.
+
+this is to raise merge conflict
